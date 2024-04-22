@@ -1,1 +1,1 @@
-# NutriPal_MP
+# nutripal
